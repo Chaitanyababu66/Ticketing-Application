@@ -42,8 +42,8 @@ This project is part of Capgemini Post-Onboarding Freshers Training.
 
 *Batch: E2E-Manipal-Systems C CPP Linux Programming PT Aug 4th Batch2*
 ## Contributors:
-- [Aman Bhaskar](https://github.com/amanbh2)
-- [Karan Nareshbhai Telar](https://github.com/telarKaran)
-- [Krishna Chaitanya Chekka](https://github.com/Chaitu1018)
-- [Sreehari  Ps](https://github.com/sreeharipavvatta)
-- [Singuluri Sai Vamsee Krishna](https://github.com/ssvk053)
+- [Pavani](https://github.com/amanbh2)
+- [Bhanu sahitya](https://github.com/telarKaran)
+- [Uma](https://github.com/Chaitu1018)
+- [sukanya](https://github.com/sreeharipavvatta)
+- [soujanya](https://github.com/ssvk053)
