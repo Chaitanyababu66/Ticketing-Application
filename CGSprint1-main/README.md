@@ -42,7 +42,7 @@ This project is part of Capgemini Post-Onboarding Freshers Training.
 
 *Batch: E2E-Manipal-Systems C CPP Linux Programming PT Aug 4th Batch2*
 ## Contributors:
-- [Pavani](https://github.com/amanbh2)
+- [Chaitanya](https://github.com/Chaitanyababu66)
 - [Bhanu sahitya](https://github.com/telarKaran)
 - [Uma](https://github.com/Chaitu1018)
 - [sukanya](https://github.com/sreeharipavvatta)
